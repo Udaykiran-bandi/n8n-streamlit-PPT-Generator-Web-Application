@@ -12,14 +12,13 @@ This project allows users to enter PPT details (topic, slide headings, content, 
 ## 📸 Screenshots
 
 ### App UI
-<img width="1338" height="685" alt="Interface of App using streamlit" src="https://github.com/user-attachments/assets/280ecd99-af3e-4f40-a73e-b8d25f5ab10e" />
+<img width="1487" height="738" alt="image" src="https://github.com/user-attachments/assets/d62c6637-131c-459e-8740-c75553b8dec3" />
+
 
 
 ### n8n Workflow
 
-<img width="1470" height="956" alt="backend of PPT generator using n8n" src="https://github.com/user-attachments/assets/3863566f-2fd3-4017-90af-5be30c095412" />
-
-
+<img width="1442" height="595" alt="Screenshot 2025-12-07 104249" src="https://github.com/user-attachments/assets/60b3029d-c528-4ea6-88d5-c0c256b2f36f" />
 
 ---
 
